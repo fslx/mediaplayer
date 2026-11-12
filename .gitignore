@@ -12,6 +12,10 @@
 
 # user specific
 .vscode
+.bin
+./bin
+bin/
+
 # Package Files #
 *.jar
 *.war
